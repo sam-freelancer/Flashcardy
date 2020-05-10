@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "UdaciCards",
+    "slug": "oussamazeddam-flashcards-app",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "icon": "https://tylermcginnis.com/udacifitness-512.png",
+    "notification": {
+      "icon": "https://tylermcginnis.com/udacifitness-45.png"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
