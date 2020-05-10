@@ -7,6 +7,8 @@ To start the application:
 
 * install all project dependencies with `yarn install`
 * start the development server with `yarn start`
+* start the development server on iOS with `yarn ios`
+* start the development server on android with `yarn android`
 
 ## Technologies Used
 
